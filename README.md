@@ -79,10 +79,10 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-'''
+```
 Developed by:G.R.Nandhakumar
 Register no:212222100029
-'''
+```
 ``` C
 
 #include "main.h"
