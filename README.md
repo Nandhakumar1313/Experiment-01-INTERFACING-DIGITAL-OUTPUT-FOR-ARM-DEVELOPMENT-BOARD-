@@ -51,8 +51,8 @@ The main features of LPC2148 include the following.
  <img height=30% width=100% src="https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png">
 
 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
- <img height=30% width=100% src="https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png">
- <img height=30% width=100% src="https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png">
+ <img height=20% width=100% src="https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png">
+ <img height=20% width=100% src="https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png">
 
 
 7.click on cntrl+S , automaticall C program will be generated 
@@ -190,11 +190,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### LED is off:
- <img height=30% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/ed5d4ecd-6a01-4976-95d7-dfee72def008">
+ <img height=50% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/ed5d4ecd-6a01-4976-95d7-dfee72def008">
 
 
 ### LED is on:
- <img height=30% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/3d27ef32-ee3a-4ebf-8361-3256237c7fba">
+ <img height=50% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/3d27ef32-ee3a-4ebf-8361-3256237c7fba">
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
