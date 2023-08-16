@@ -190,11 +190,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### LED is off:
-![led off](https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/ed5d4ecd-6a01-4976-95d7-dfee72def008)
+ <img height=30% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/ed5d4ecd-6a01-4976-95d7-dfee72def008">
 
 
 ### LED is on:
-![led on](https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/3d27ef32-ee3a-4ebf-8361-3256237c7fba)
+ <img height=30% width=100% src="https://github.com/Nandhakumar1313/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120230694/3d27ef32-ee3a-4ebf-8361-3256237c7fba">
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
